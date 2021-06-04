@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/405927257/android.flutter_scan_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/405927257/android.flutter_scan_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-504482450/android.images_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-504482450/android.images_picker.iml" />
+    </modules>
+  </component>
+</project>
